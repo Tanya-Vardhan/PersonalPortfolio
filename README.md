@@ -11,3 +11,6 @@ A modern and responsive personal portfolio website designed to showcase projects
 ## 🛠️ Technologies Used  
 - **React.js** – Enables a dynamic and component-based architecture for better scalability.  
 - **Tailwind CSS** – Provides a utility-first approach for styling, ensuring a responsive and modern design.  
+
+## 🌐 Live Demo  
+🔗 **[View Portfolio](https://personal-portfolio-ten-alpha-82.vercel.app/)**  
